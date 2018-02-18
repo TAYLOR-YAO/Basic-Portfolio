@@ -152,7 +152,6 @@ h6{
 
 
 div.projects{
-	background-image: url(https://boygeniusreport.files.wordpress.com/2017/10/iphone-x-in-hand.jpg?quality=98&strip=all&w=1200);
 	width: 230px;
 	height: 140px;
 	border: none;
@@ -164,6 +163,7 @@ div.projects{
 	float: left;
 	text-align: center;
 }
+/* I ..............can't set  the backgroundimages to fit my portfolio boxes. it affect my grid..............*/
 div>projects4{
 	background-color: teal;
 	color: #ffffff;
@@ -173,18 +173,23 @@ div>projects4{
 }
 div#projects1{
     margin-right: 40px;
+    background-color: #666666;
 }
 div#projects2{
     margin-right: 25px;
+    background-color: cornflowerblue;
 }
 div#projects3{
     margin-right: 40px;
+    background-color: aquamarine;
 }
 div#projects4{
     margin-right: 25px;
+    background-color: darkolivegreen;
 }
 div#projects5{
     margin-right: 40px;
+    background-color: coral;
 }
 .rule{
     width:50%;
@@ -196,4 +201,7 @@ div#projects5{
     text-align: center;
     color: #ffffff;
     font-size: 22px;
+}
+.porrule{
+    width: 80%;
 }
