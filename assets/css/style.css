@@ -174,22 +174,28 @@ div>projects4{
 div#projects1{
     margin-right: 40px;
     background-color: #666666;
+    background-image: url(../images/phone.jpg);
+
 }
 div#projects2{
     margin-right: 25px;
     background-color: cornflowerblue;
+    background-image: url(../images/technology.jpg);
 }
 div#projects3{
     margin-right: 40px;
     background-color: aquamarine;
+    background-image: url(../images/game-taylor.jpg);
 }
 div#projects4{
     margin-right: 25px;
     background-color: darkolivegreen;
+    background-image: url(../images/tablet.jpg);
 }
 div#projects5{
     margin-right: 40px;
     background-color: coral;
+    background-image: url(../images/tech.jpg);
 }
 .rule{
     width:50%;
